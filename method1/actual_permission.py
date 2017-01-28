@@ -4,8 +4,8 @@ mail : manuel314ad@gmail.com
 """
 
 
-#create a directory named apks and put apk there
-#the program will read apk from apk directory only
+#create a directory "apks" and put a apk there
+#the program will read the apk from apks directory only
 import os
 import re
 
